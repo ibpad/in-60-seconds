@@ -4,7 +4,7 @@
 
 ## Add Some Slide Candy
 
-![](assets/img/presentation.png)
+![](https://avatars2.githubusercontent.com/u/25670554?s=400&u=83d270ba6247b4e52c8464e907b5036c01c5749d&v=4)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
